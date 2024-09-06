@@ -33,6 +33,7 @@ img {
   color: #f1f1f1;
   border-radius: 10px;
   width: 350px;
+  padding: 20px;
   height: auto;
   display: flex;
   flex-direction: column;
@@ -74,7 +75,7 @@ img {
   height: 38px;
   border-radius: 6px;
   border: none;
-  margin-bottom: 20px;
+  margin-bottom: 16px;
   font-weight: 600;
 
   background-color: hsl(0, 0%, 20%);
